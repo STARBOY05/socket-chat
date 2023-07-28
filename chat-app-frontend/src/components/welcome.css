@@ -1,0 +1,33 @@
+.welcome-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+}
+
+.welcome-container img {
+    height: 20rem;
+}
+
+.welcome-container span {
+    color: #8aace4;
+}
+
+@media screen and (max-width: 768px) {
+    .welcome-container {
+        height: 25%;
+    }
+
+    .welcome-container img {
+        display: none;
+    }
+
+    .welcome-container h1 {
+        font-size: 1.5rem;
+    }
+
+    .welcome-container h3 {
+        font-size: 1rem;
+    }
+}

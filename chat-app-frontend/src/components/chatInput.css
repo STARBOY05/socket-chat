@@ -1,0 +1,153 @@
+.chat-input-container {
+    background-color: #080420;
+    padding: 0 2rem;
+
+    @media screen and (min-width: 720px) and (max-width: 1080px) {
+        padding: 0 1rem;
+        gap: 1rem;
+    }
+}
+
+.chat-input-top {
+    display: grid;
+    align-items: center;
+    grid-template-columns: 5% 95%;
+}
+
+.button-container {
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 1rem;
+
+}
+
+.emoji {
+    height: 0;
+    margin-bottom: 27px;
+}
+
+.emoji svg {
+    font-size: 1.5rem;
+    color: #ffff00c8;
+    cursor: pointer;
+}
+
+.emoji .EmojiPickerReact {
+    position: absolute;
+    top: -425px;
+    background-color: #080420;
+    box-shadow: 0 5px 10px #9a86f3;
+    border-color: #9a86f3;
+}
+
+.emoji .EmojiPickerReact .epr-preview {
+    display: none;
+}
+
+.emoji .emoji-scroll-wrapper::-webkit-scrollbar {
+    background-color: #080420;
+    width: 5px;
+}
+
+.emoji .emoji-scroll-wrapper::-webkit-scrollbar-thumb {
+    background-color: #9a86f3;
+}
+
+.emoji .emoji-categories button {
+    filter: contrast(0);
+}
+
+.emoji .emoji-search {
+    background-color: transparent;
+    border-color: #9a86f3;
+}
+
+.emoji .emoji-group:before {
+    background-color: #080420;
+}
+
+.input-container {
+    width: 100%;
+    border-radius: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    background-color: #ffffff34;
+}
+
+.input-container input {
+    width: 100%;
+    height: 60%;
+    background-color: transparent;
+    color: white;
+    border: none;
+    padding-left: 1rem;
+    font-size: 1.2rem;
+}
+
+.input-container input::selection {
+    background-color: #9a86f3;
+}
+
+.input-container input:focus {
+    outline: none;
+}
+
+.input-container button {
+    padding: 0.5rem;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9a86f3;
+    border: none;
+
+    @media screen and (min-width: 720px) and (max-width: 1080px) {
+        padding: 0.3rem 1rem;
+
+        .input-container button svg {
+            font-size: 1rem;
+        }
+    }
+}
+
+.input-container svg {
+    font-size: 1.5rem;
+    color: white;
+}
+
+.chat-suggestions {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    width: 100%;
+    height: 50%;
+}
+
+.chat-suggestion-list {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+    .emoji svg {
+        font-size: 1.3rem;
+        color: #ffff00c8;
+        cursor: pointer;
+    }
+
+    .chat-input-top {
+        grid-template-columns: 10% 90%;
+    }
+
+    .input-container input {
+        font-size: 1rem;
+    }
+
+}
