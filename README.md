@@ -3,13 +3,13 @@
 ## Images
 
 <p align="center">
-  <img width="300" height="320" src="https://i.imgur.com/ihRkoua.png">
-  <img width="280" height="320" src="https://i.imgur.com/2g63iQE.png">
+  <img width="300" height="320" src="https://i.imgur.com/ihRkoua.png" alt="Chat Login">
+  <img width="280" height="320" src="https://i.imgur.com/2g63iQE.png" alt="Chat Register">
 </p>
 
 <p align="center">
-  <img width="600" height="320" src="https://i.imgur.com/5ZzbFwS.png">
-  <img width="600" height="320" src="https://i.imgur.com/hCtjJi6.png">
+  <img width="600" height="320" src="https://i.imgur.com/5ZzbFwS.png" alt="Chat Set Avatar">
+  <img width="600" height="320" src="https://i.imgur.com/hCtjJi6.png" alt="Main Chat>
 </p>
 
 ## Short Description
