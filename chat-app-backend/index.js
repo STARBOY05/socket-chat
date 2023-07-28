@@ -33,8 +33,10 @@ const server = app.listen(process.env.PORT, () => {
 
 const io = socket(server, {
     cors: {
-        origin: "http://localhost:3000",
-        credentials: true,
+        origin: "https://socket-chat-client-nrhs.onrender.com",
+        methods: ["GET", "POST"],
+        allowedHeaders: ["my-custom-header"],
+        credentials: true
     },
 });
 
