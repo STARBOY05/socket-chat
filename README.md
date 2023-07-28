@@ -9,7 +9,7 @@
 
 <p align="center">
   <img width="600" height="320" src="https://i.imgur.com/5ZzbFwS.png" alt="Chat Set Avatar">
-  <img width="600" height="320" src="https://i.imgur.com/hCtjJi6.png" alt="Main Chat>
+  <img width="600" height="320" src="https://i.imgur.com/hCtjJi6.png" alt="Main Chat">
 </p>
 
 ## Short Description
