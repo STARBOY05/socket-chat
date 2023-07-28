@@ -3,13 +3,13 @@
 ## Images
 
 <p align="center">
-  <img width="300" height="320" src="https://github.com/STARBOY05/socket-chat/assets/66910758/a4cce5a7-eb74-4f56-ac06-a4b17012649a">
-  <img width="280" height="320" src="https://github.com/STARBOY05/socket-chat/assets/66910758/46d978ce-a8b8-4e57-a003-2e3feac8cb40">
+  <img width="300" height="320" src="https://i.imgur.com/ihRkoua.png">
+  <img width="280" height="320" src="https://i.imgur.com/2g63iQE.png">
 </p>
 
 <p align="center">
-  <img width="600" height="320" src="https://github.com/STARBOY05/socket-chat/assets/66910758/5496169e-c4d2-4a2a-b9fd-89d6457551e7">
-  <img width="600" height="320" src="https://github.com/STARBOY05/socket-chat/assets/66910758/67d54b85-8849-441d-b9ac-c726d6f99a3a">
+  <img width="600" height="320" src="https://i.imgur.com/5ZzbFwS.png">
+  <img width="600" height="320" src="https://i.imgur.com/hCtjJi6.png">
 </p>
 
 ## Short Description
